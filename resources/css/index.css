@@ -3,12 +3,12 @@
   text-align: center;
 }
 #header {
-  background-image: url("file:///Users/StevenDrea/Documents/projects/Broadway/resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
   background-position: center;
 }
 .design {
-  background-image: url("file:///Users/StevenDrea/Documents/projects/Broadway/resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   background-size: cover;
   background-position: center;
 }
